@@ -17,7 +17,7 @@ sound_on = True
 score = 0
 level = 1
 death_sound_played = False
-banana = None  # 🍌 Только один банан
+banana = None  #Только один банан
 
 #  Кнопки интерфейса
 sound_button = Actor('sound_on', (750, 50))
